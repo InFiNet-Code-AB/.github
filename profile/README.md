@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">We are a IT company located in Gothenburg Sweden that has Clean Code as a backbone as a building block.</p>
+<p align="left">We are a IT company located in Gothenburg Sweden that focuses on improving and developing software the right way, the Clean Code way !</p>
 
 ###
 
