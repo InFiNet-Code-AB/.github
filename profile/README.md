@@ -1,33 +1,30 @@
-<h1 align="left">Hello there !👋 What's up?</h1>
+# Welcome to InFiNet Code AB 👋
 
-###
+We are a IT consulting company based in Gothenburg, Sweden, specializing in the development and enhancement of software solutions through the lens of Clean Code principles. Our expertise spans across a wide range of technologies and industries, ensuring that we deliver high-quality, maintainable, and efficient software solutions to our clients.
 
-<p align="left">We are a IT company located in Gothenburg Sweden that focuses on improving and developing software the right way, the Clean Code way !</p>
+## About Us 📖
 
-###
+- **Established**: 2016, we have been at the forefront of software development, focusing on creating robust, scalable, and maintainable software solutions.
+- **Expertise**: Our core expertise lies in Enterprise Projects, where we leverage our extensive experience and deep understanding of Clean Code principles to deliver exceptional results.
+- **Goals**: Our primary goal is to empower and teach about Clean Code and it's impact on Software as a whole, and to help our clients with cutting-edge software solutions that not only meet but exceed their expectations, driving their businesses forward with innovation and efficiency.
+- **Fun Fact**: At InFiNet Code, we believe in the power of collaboration and continuous learning. We strive to create a culture that fosters creativity, innovation, and professional growth.
 
-<h2 align="left">About us  :</h2>
+## Our Technology Stack 🛠️
 
-###
+We utilize a variety of technologies to ensure we provide the best solutions for our clients. Our technology stack includes:
 
-<p align="left">✨ Creating bugs since 2016<br>📚 Our expertise is Enterprise Projects<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- .NET Core
+- React
+- Next.js
+- TypeScript
+- JavaScript
 
-###
+These technologies allow us to build scalable, high-performance applications that meet the evolving needs of our clients.
 
-<h2 align="left">We code with</h2>
+## Contact Us 📩
 
-###
+For inquiries, partnerships, or to discuss how we can help you achieve your software development goals, please reach out to us at our [website](https://www.infinetcode.se/).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+---
 
-###
+© 2024 InFiNet Code AB. All rights reserved.
