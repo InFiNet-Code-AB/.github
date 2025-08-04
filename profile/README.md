@@ -27,4 +27,4 @@ For inquiries, partnerships, or to discuss how we can help you achieve your soft
 
 ---
 
-© 2024 InFiNet Code AB. All rights reserved.
+© 2025 InFiNet Code AB. All rights reserved.
