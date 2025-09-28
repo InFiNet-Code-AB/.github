@@ -1,30 +1,53 @@
-# Welcome to InFiNet Code AB 👋
+# Welcome to InFiNet Code AB 👋  
 
-We are a IT consulting company based in Gothenburg, Sweden, specializing in the development and enhancement of software solutions through the lens of Clean Code principles. Our expertise spans across a wide range of technologies and industries, ensuring that we deliver high-quality, maintainable, and efficient software solutions to our clients.
+We are an IT consulting and education company based in Gothenburg, Sweden. At InFiNet Code, we combine **consulting expertise, workshops, hackathons, app development, and training programs** to help individuals and organizations unlock the full potential of **IT and AI**.  
 
-## About Us 📖
-
-- **Established**: 2016, we have been at the forefront of software development, focusing on creating robust, scalable, and maintainable software solutions.
-- **Expertise**: Our core expertise lies in Enterprise Projects, where we leverage our extensive experience and deep understanding of Clean Code principles to deliver exceptional results.
-- **Goals**: Our primary goal is to empower and teach about Clean Code and it's impact on Software as a whole, and to help our clients with cutting-edge software solutions that not only meet but exceed their expectations, driving their businesses forward with innovation and efficiency.
-- **Fun Fact**: At InFiNet Code, we believe in the power of collaboration and continuous learning. We strive to create a culture that fosters creativity, innovation, and professional growth.
-
-## Our Technology Stack 🛠️
-
-We utilize a variety of technologies to ensure we provide the best solutions for our clients. Our technology stack includes:
-
-- .NET Core
-- React
-- Next.js
-- TypeScript
-- JavaScript
-
-These technologies allow us to build scalable, high-performance applications that meet the evolving needs of our clients.
-
-## Contact Us 📩
-
-For inquiries, partnerships, or to discuss how we can help you achieve your software development goals, please reach out to us at our [website](https://www.infinetcode.se/).
+Our focus is not just on writing code — it’s on **solving real problems** through technology, teaching **Clean Code principles**, and building **AI-powered tools and applications** that move businesses forward.  
 
 ---
 
-© 2025 InFiNet Code AB. All rights reserved.
+## About Us 📖  
+
+- **Founded**: 2016 — With nearly a decade of experience, we’ve delivered scalable, maintainable, and impactful software solutions across industries.  
+- **Expertise**: Enterprise projects, AI applications, mobile apps, workshops, and tailored education. From hands-on coding to strategic architecture, we know how to create results that last.  
+- **Community Impact**: We give back by running hackathons, workshops, and LIA programs for students — inspiring the next generation of problem solvers.  
+- **Our Mission**: To **empower developers and organizations** with the knowledge, tools, and mindset to succeed in an ever-changing tech landscape.  
+
+---
+
+## What We Do 🚀  
+
+- **Consulting & Development** → Fullstack projects in .NET, React, Next.js, and modern cloud environments.  
+- **AI Solutions** → Building smart apps and tools that help businesses automate and innovate.  
+- **App Development** → Mobile and cross-platform apps with Flutter, Expo, and React Native.  
+- **Workshops & Education** → Hands-on learning experiences on Clean Code, modern tech stacks, and AI.  
+- **Hackathons & Community** → Engaging with students and professionals to create real impact.  
+- **Problem Solving** → We believe IT is not about code lines, but about fixing challenges that matter.  
+
+---
+
+## Our Technology Stack 🛠️  
+
+We work with a modern, battle-tested stack to ensure flexibility and scalability:  
+- **AI** → Tools, Apps, Integrations, Models, Data Analysis
+- **Cloud + Architecture** → AWS, AZURE, GCP
+- **Backend & Enterprise** → .NET Core, Docker, Kubernetes  
+- **Frontend & Web** → React, Next.js, TypeScript, JavaScript, Remix, Three.js  
+- **Mobile & Apps** → Flutter, Expo, React Native  
+
+---
+
+## Why InFiNet Code? ✨  
+
+Because we don’t just deliver projects — we **teach, share, and empower**.  
+Our clients and students walk away not only with working solutions, but with the confidence and knowledge to face tomorrow’s challenges.  
+
+---
+
+## Contact Us 📩  
+
+For collaborations, workshops, or consulting inquiries, reach out via our [website](https://www.infinetcode.se/).  
+
+---
+
+© 2025 InFiNet Code AB. All rights reserved.  
