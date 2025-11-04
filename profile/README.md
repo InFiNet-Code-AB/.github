@@ -1,53 +1,93 @@
-# Welcome to InFiNet Code AB 👋  
+InFiNet Code AB 👋
+Craftin the future !
 
-We are an IT consulting and education company based in Gothenburg, Sweden. At InFiNet Code, we combine **consulting expertise, workshops, hackathons, app development, and training programs** to help individuals and organizations unlock the full potential of **IT and AI**.  
+Empowering innovation through technology & education.
 
-Our focus is not just on writing code — it’s on **solving real problems** through technology, teaching **Clean Code principles**, and building **AI-powered tools and applications** that move businesses forward.  
+About Us 📖
 
----
+InFiNet Code AB is a Swedish technology company based in Gothenburg, focused on delivering AI-driven software products, consulting services, and technical education.
 
-## About Us 📖  
+Founded in 2016, we’ve grown from a consulting agency into a hybrid tech organization — combining deep expertise in software engineering, AI innovation, and product development.
 
-- **Founded**: 2016 — With nearly a decade of experience, we’ve delivered scalable, maintainable, and impactful software solutions across industries.  
-- **Expertise**: Enterprise projects, AI applications, mobile apps, workshops, and tailored education. From hands-on coding to strategic architecture, we know how to create results that last.  
-- **Community Impact**: We give back by running hackathons, workshops, and LIA programs for students — inspiring the next generation of problem solvers.  
-- **Our Mission**: To **empower developers and organizations** with the knowledge, tools, and mindset to succeed in an ever-changing tech landscape.  
+Our work spans three pillars:
 
----
+Consulting & Engineering Services – delivering scalable digital solutions for clients.
 
-## What We Do 🚀  
+Education & Community – training developers and future professionals through workshops, hackathons, and LIA programs.
 
-- **Consulting & Development** → Fullstack projects in .NET, React, Next.js, and modern cloud environments.  
-- **AI Solutions** → Building smart apps and tools that help businesses automate and innovate.  
-- **App Development** → Mobile and cross-platform apps with Flutter, Expo, and React Native.  
-- **Workshops & Education** → Hands-on learning experiences on Clean Code, modern tech stacks, and AI.  
-- **Hackathons & Community** → Engaging with students and professionals to create real impact.  
-- **Problem Solving** → We believe IT is not about code lines, but about fixing challenges that matter.  
+Product Development (SaaS) – building intelligent platforms that transform how people learn, build, and collaborate in tech.
 
----
+Our mission is simple:
 
-## Our Technology Stack 🛠️  
+To empower developers, organizations, and learners with the tools, knowledge, and technology to succeed in the AI era.
 
-We work with a modern, battle-tested stack to ensure flexibility and scalability:  
-- **AI** → Tools, Apps, Integrations, Models, Data Analysis
-- **Cloud + Architecture** → AWS, AZURE, GCP
-- **Backend & Enterprise** → .NET Core, Docker, Kubernetes  
-- **Frontend & Web** → React, Next.js, TypeScript, JavaScript, Remix, Three.js  
-- **Mobile & Apps** → Flutter, Expo, React Native  
+What We Do 🚀
+🔹 Consulting & Development
 
----
+Full-cycle engineering for startups and enterprises — from architecture to deployment.
+We specialize in scalable, maintainable systems with strong emphasis on Clean Code, DevOps, and cloud-native design.
 
-## Why InFiNet Code? ✨  
+🔹 SaaS & Product Innovation
 
-Because we don’t just deliver projects — we **teach, share, and empower**.  
-Our clients and students walk away not only with working solutions, but with the confidence and knowledge to face tomorrow’s challenges.  
+We design, build, and launch our own AI-powered platforms and learning products, including:
 
----
+Learning Management Systems (LMS) with real-time analytics
 
-## Contact Us 📩  
+AI-driven insight engines for education and training
 
-For collaborations, workshops, or consulting inquiries, reach out via our [website](https://www.infinetcode.se/).  
+Productivity and automation tools for modern teams
 
----
+🔹 AI Solutions & Integration
 
-© 2025 InFiNet Code AB. All rights reserved.  
+Helping organizations leverage AI through:
+
+Intelligent assistants and recommendation systems
+
+Predictive analytics and process automation
+
+AI model integration into existing workflows
+
+🔹 Workshops, Training & Community
+
+We teach Clean Code, modern web and mobile development, and applied AI through:
+
+Corporate training
+
+YH-school partnerships and LIA programs
+
+Hackathons and innovation events
+
+Technology Stack 🛠️
+
+Our engineering approach is modular, cloud-native, and AI-ready.
+We work across modern technologies including:
+
+AI & Data → OpenAI, LangChain, TensorFlow, Data Analysis, Integrations
+Backend → .NET Core, Node.js, Python, Docker, Kubernetes
+Frontend & Web → React, Next.js, TypeScript, Remix, Three.js
+Mobile & Apps → Flutter, Expo, React Native
+Cloud & Architecture → AWS, Azure, GCP, CI/CD pipelines
+
+Why InFiNet Code? 💡
+
+Because we go beyond code.
+We combine the mindset of a consulting partner with the innovation of a product studio — delivering solutions that teach, scale, and last.
+
+✅ End-to-end expertise – from business logic to AI implementation
+✅ Strong educational DNA – we don’t just build; we explain and empower
+✅ Proven industry experience – serving clients across sectors since 2016
+✅ Product-first innovation – developing SaaS tools that solve real business challenges
+
+Our Vision 🌍
+
+To become a leading force in AI-powered education and development platforms, enabling a smarter, more connected tech ecosystem where learning and building are one continuous process.
+
+Contact Us 📩
+
+📍 Based in Gothenburg, Sweden
+🌐 www.infinetcode.se
+
+📧 support@infinetcode.se
+
+© 2025 InFiNet Code AB. All rights reserved.
+Building products. Empowering people. Crafting the future.
