@@ -1,5 +1,5 @@
 InFiNet Code AB 👋
-Craftin the future !
+Crafting the future !
 
 Empowering innovation through technology & education.
 
